@@ -8,7 +8,7 @@ I made this repository to better my skills with AI and develope better AI engine
 
 ## Learning Material
 
- - [Youtube Course (Building LLMs from Scratch)](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Youtube Course (Building LLMs from Scratch)](https://www.youtube.com/watch?v=Xpr8D6LeAtw&list=PLPTV0NXA_ZSgsLAr8YCgCwhPIJNNtexWu)
 
  The goal that I have with this github repo is to build an LLM in order to achieve better understanding of the AI engineering field. I know basic understanding of the math that takes place behind an LLM currently, but I know if I want to be an AI engineer I have to conduct a lot of self learning.
 
